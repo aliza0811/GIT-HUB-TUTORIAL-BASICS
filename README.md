@@ -11,7 +11,9 @@ If not, then let's dive in -
 6. Your repository will be displayed on your account page
 
 Now comes a very important concept to tackle two core keywords, that we have used in the above explanation. 
-1. Repository & 2. README
+1. Repository
+2. README
+
 To clear our concepts in detail, and to know and understand each and every step that you are working/taking it is important to know what these two words mean. :(
 
 And this is where my documentation about the tutorial will help you. 
